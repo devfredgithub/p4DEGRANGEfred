@@ -6,6 +6,16 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+.navbar
+{
+    text-align: center;
+}
+
+h1
+{
+    font-family: "helvetica";
+    color: #f67a52;
+}
 
 a,
 button {
@@ -639,7 +649,7 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h1,
+
 h2,
 h3,
 h4,
